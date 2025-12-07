@@ -12,7 +12,7 @@ abstraction - the most important info is just the execution of the binary search
 algorithm design - inputs are the target value and the less, yes, more buttons. outputs show the steps of binary search. constraints are only being able to choose values 1-100.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="image.png" width="200">
+<img src="image.png">
 </div>
 
 ## Steps to Run 
