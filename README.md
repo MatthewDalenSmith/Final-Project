@@ -8,7 +8,7 @@ pattern recognition - this uses a similar binary search engine to other problems
 abstraction - the most important info is just the execution of the binary search. everything else is extra details but the required functions are the inputting of a target and then making the search work.
 algorithm design - inputs are the target value and the less, yes, more buttons. outputs show the steps of binary search. constraints are only being able to choose values 1-100.
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="path/to/image.png" alt="Image 1" width="200">
+<img src="path/to/image.png" width="200">
 </div>
 ## Steps to Run 
 to run just open the hugging face link it'll take you to the page.
