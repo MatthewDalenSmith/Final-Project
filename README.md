@@ -10,6 +10,7 @@ algorithm design - inputs are the target value and the less, yes, more buttons. 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="image.png" width="200">
 </div>
+
 ## Steps to Run 
 to run just open the hugging face link it'll take you to the page.
 for playing the game use the slider to pick a number and hit place order to lock that in as your target value, the chef will then reply with the mid value of the binary search.
