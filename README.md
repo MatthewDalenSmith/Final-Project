@@ -6,6 +6,8 @@ Binary Search
 
 ## Steps to Run 
 to run just open the hugging face link it'll take you to the page
+for playing the game use the slider to pick a number and hit place order to lock that in as your target value, the chef will then reply with the mid value of the binary search.
+use the less, yes, and more buttons to advance the steps of binary search. if you hit the wrong button the game will say incorrect
 ## Hugging Face Link 
 https://huggingface.co/spaces/MatthewSmith1/CISC_121_Final_Project
 ## Author & Acknowledgment 
